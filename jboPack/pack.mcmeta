@@ -1,0 +1,12 @@
+{ "pack":
+  { "pack_format": 1
+  , "description": "jmina la .lojban. lo'i bangu"
+  }
+, "language":
+  { "jbo_XC":
+    { "name": "lojban"
+    , "region": "CLL 1.1"
+    , "bidirectional": false
+    }
+  }
+}
